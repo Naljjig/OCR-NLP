@@ -11,11 +11,9 @@
       <img src="image2.png" alt="Golfvision-Tracker Another example" width="400"/>
     </td>
   </tr>
-  <tr>
     <td style="text-align: center;">
       <p>앱 이미지 샘플</p>
     </td>
-  </tr>
 </table>
 
 ## 목차
