@@ -6,10 +6,10 @@
 <table>
   <tr>
     <td style="text-align: center;">
-      <img src="image.png" alt="Golfvision-Tracker Lower camera example" width="400" height= "600"/>
+      <img src="image.png" alt="Golfvision-Tracker Lower camera example" width="300" height= "600"/>
     </td>
     <td style="text-align: center;">
-      <img src="image2.png" alt="Golfvision-Tracker Another example" width="400" height= "600"/>
+      <img src="image2.png" alt="Golfvision-Tracker Another example" width="300" height= "600"/>
     </td>
   </tr>
 </table>
