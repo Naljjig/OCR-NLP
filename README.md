@@ -2,6 +2,16 @@
 
 **OCR-NLP**는 이미지에서 텍스트를 추출하고 자연어 처리(NLP)를 활용하여 일정 정보를 생성하는 프로젝트입니다. 이미지 크롤링, OCR(광학 문자 인식), 그리고 KoBART 모델을 사용해 스케줄 제목, 날짜, 시간을 추출하여 구조화된 데이터를 생성합니다.
 
+<div style="display: flex; justify-content: space-between; text-align: center;">
+  <div style="width: 45%;">
+    <img src="image.png" alt="Golfvision-Tracker Lower camera example" style="width: 100%;">
+  </div>
+  <div style="width: 45%;">
+    <img src="image2.png" alt="Golfvision-Tracker Another example" style="width: 100%;">
+  </div>
+    <p>앱 이미지 샘플</p>
+</div>
+
 ## 목차
 - [프로젝트 개요](#프로젝트-개요)
 - [주요 기능](#주요-기능)
